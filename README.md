@@ -1,6 +1,6 @@
-# reverse_engineer_chat_app
+# Email Application
 
-A new Flutter project.
+A Flutter project used in conjunction with MongoDb and Node JS
 
 ## Getting Started
 
